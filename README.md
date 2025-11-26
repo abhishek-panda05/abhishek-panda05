@@ -43,16 +43,6 @@ Passionate about building scalable applications, solving logical problems, and c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekpanda05) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishek-panda05) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heyy.abhishek/)
 
-
-
----
-
-### 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-panda05&theme=flat&no-frame=true&margin-w=6"/>
-</p>
-
 ---
 
 > *“Focused on progress, optimized for impact.”*  
